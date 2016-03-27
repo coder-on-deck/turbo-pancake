@@ -1,7 +1,7 @@
 turbo-pancake
 ========
 
-![Turbo Pancake][logo.png]
+![Turbo Pancake](logo.png)
 
 Installation
 --------
