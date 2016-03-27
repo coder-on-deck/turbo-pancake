@@ -3,6 +3,8 @@ turbo-pancake
 
 ![Turbo Pancake](logo.png)
 
+SSE (Sever Sent Events) made easy for node and express.
+
 Installation
 --------
 
