@@ -1,6 +1,6 @@
 'use strict'
 
-var uuid = require('node-uuid')
+var uuid = require('uuid')
 /**
  *
  * @param {string} content - required. the content of the event
