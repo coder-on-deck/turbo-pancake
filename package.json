@@ -6,16 +6,16 @@
     "name": "Coder On Deck <coder.on.deck@gmail.com>"
   },
   "license": "MIT",
-  "keywords" : [
+  "keywords": [
     "sse"
   ],
-  "main":"index.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/coder-on-deck/turbo-pancake"
   },
   "dependencies": {
-    "node-uuid": "^1.4.7"
+    "uuid": "^3.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.9.2",
